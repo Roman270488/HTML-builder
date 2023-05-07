@@ -22,6 +22,3 @@ const copyDir = (files, filesCopy) => {
   });
 }
 copyDir(defFolder, copyFolder);
-
-
-
